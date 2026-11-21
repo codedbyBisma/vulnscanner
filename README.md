@@ -1,4 +1,4 @@
-# 🚨 ByteVulnScanner 🚨
+# 🚨 VulnScanner 🚨
 *A Python-based Vulnerability Scanner using Nmap & Socket*
 
 ---
